@@ -1,0 +1,33 @@
+
+p	{
+	color:	black;
+	background-color: white;
+	line-height: 20px;	/*	tamanho	da	altura	de	cada	linha	*/
+	letter-spacing: 3px;	/*	tamanho	do	espaço	entre	cada	letra	*/
+	word-spacing: 10px;	/*	tamanho	do	espaço	entre	cada	palavra	*/
+	text-indent: 50px;	/*	tamanho	da	margem	da	primeira	linha	do	texto	*/
+	padding: 10px 15px;
+}
+
+}
+
+h1	{
+		background-image:	url(../img/sobre-background.jpg);
+}
+h2	{
+					border-bottom: 2px	solid	#333333;
+	}
+
+body	{
+		border: 10px	solid	black;
+			color: #333333;
+			font-family: "Lucida	Sans	Unicode",	"Lucida	Grande",	sans-serif;
+}
+figure	{
+			background-color: #F2EDED;
+			border: 1px	solid	#ccc;
+			text-align:	center;
+	}
+figcaption	{
+			font-style:	italic;
+			}
